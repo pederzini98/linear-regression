@@ -1,2 +1,3 @@
 # linear-regression
-College project
+Dataset link
+https://www.kaggle.com/harlfoxem/housesalesprediction
